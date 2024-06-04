@@ -14,7 +14,9 @@ In the code above, we've used D2STGNN(https://github.com/zezhishao/D2STGNN) as t
 ## Dataset
 
 The dataset is sourced from STGCN and DCRNN.
+
 https://github.com/VeritasYin/STGCN_IJCAI-18
+
 https://github.com/liyaguang/DCRNN
 
 The traffic data files for Los Angeles (METR-LA) and the Bay Area (PEMS-BAY), i.e., `metr-la.h5` and `pems-bay.h5`, are available at [Google Drive](https://drive.google.com/open?id=10FOTa6HXPqX8Pf5WRoRwcFnW9BrNZEIX) or [Baidu Yun](https://pan.baidu.com/s/14Yy9isAIZYdU__OYEQGa_g).
