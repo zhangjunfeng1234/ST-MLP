@@ -6,7 +6,7 @@ The PyTorch implementation of ST-MLP from the paper Knowledge Distillation based
 
 ## Network Structure
 
-![method]([C:\Users\ZJF\Desktop\method.jpg](https://github.com/zhangjunfeng1234/ST-MLP/blob/master/method.jpg))
+![method](https://github.com/zhangjunfeng1234/ST-MLP/blob/master/method.jpg)
 
 In the code above, we've used D2STGNN(https://github.com/zezhishao/D2STGNN) as the teacher model. However, you're free to modify the teacher model as per your requirements. 
 
