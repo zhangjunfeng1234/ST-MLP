@@ -32,6 +32,6 @@ You'll obtain the student model (xxx.model).
 
 
 ## Results
-
+![method](https://github.com/zhangjunfeng1234/ST-MLP/blob/master/image.png)
 
 
